@@ -2,7 +2,7 @@
 
 A repository of work done in partial fulfillment of capstone requirements for MCDS at Carnegie Mellon University Fall 2023 - Spring 2025. 
 
-The file data.zip contains the MMA data set taken from (unpublished) Jiang et al. (2023) [arXiv copy](https://arxiv.org/abs/2311.03755). We note that this dataset is perhaps a misrepresentation of the original MMA dataset described in the paper. We have had to revert the data to the form we desire. The data we used and created is contained in the /data folder.
+The file data.zip contains the MMA data set taken from (unpublished) Jiang et al. (2023) [arXiv copy](https://arxiv.org/abs/2311.03755). We note that this dataset is perhaps a misrepresentation of the original MMA dataset described in the paper. We have had to revert the data to the form we desire. The data we will use will be created from this and stored in the /data folder.
 
 1. The modified data is contained in the /data/modified_mma folder. 
 2. The /data/informalization folder contains the results of our informalization attempts. 
